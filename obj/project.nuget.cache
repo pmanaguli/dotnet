@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Of0PJknF0Ubs4CTTkTjN5NG4H7qaVD/tRo189GSTw11e90+Vubp/kbPu+DnGHbthGFZmscVaiMeGcPG4JPtQw==",
+  "success": true,
+  "projectFilePath": "/home/prash/dotnet-workspace/GuessingGame/GuessingGame.csproj",
+  "expectedPackageFiles": [
+    "/home/prash/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
