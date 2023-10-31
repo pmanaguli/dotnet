@@ -13,3 +13,5 @@
 /home/prash/dotnet-workspace/GuessingGame/obj/Debug/net7.0/GuessingGame.pdb
 /home/prash/dotnet-workspace/GuessingGame/obj/Debug/net7.0/GuessingGame.genruntimeconfig.cache
 /home/prash/dotnet-workspace/GuessingGame/obj/Debug/net7.0/ref/GuessingGame.dll
+/home/prash/dotnet-workspace/GuessingGame/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/prash/dotnet-workspace/GuessingGame/obj/Debug/net7.0/GuessingGame.csproj.CopyComplete

@@ -1,0 +1,17 @@
+/home/prash/dotnet-workspace/GuessingGame/bin/Release/net7.0/GuessingGame
+/home/prash/dotnet-workspace/GuessingGame/bin/Release/net7.0/GuessingGame.deps.json
+/home/prash/dotnet-workspace/GuessingGame/bin/Release/net7.0/GuessingGame.runtimeconfig.json
+/home/prash/dotnet-workspace/GuessingGame/bin/Release/net7.0/GuessingGame.dll
+/home/prash/dotnet-workspace/GuessingGame/bin/Release/net7.0/GuessingGame.pdb
+/home/prash/dotnet-workspace/GuessingGame/bin/Release/net7.0/Newtonsoft.Json.dll
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.csproj.AssemblyReference.cache
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.AssemblyInfoInputs.cache
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.AssemblyInfo.cs
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.csproj.CoreCompileInputs.cache
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.csproj.CopyComplete
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.dll
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/refint/GuessingGame.dll
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.pdb
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/GuessingGame.genruntimeconfig.cache
+/home/prash/dotnet-workspace/GuessingGame/obj/Release/net7.0/ref/GuessingGame.dll
